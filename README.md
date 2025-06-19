@@ -76,7 +76,8 @@ Environment=BOT_TOKEN=Заменить_токен
 Environment=OPENWEATHER_TOKEN=Заменить_ключ
 
 [Install]
-WantedBy=multi-user.target```
+WantedBy=multi-user.target
+```
 ✅ Шаг 7: Запустить и включить бота
 ```
 sudo systemctl daemon-reexec
