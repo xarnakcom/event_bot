@@ -1,0 +1,1 @@
+# получение погоды с OpenWeatherMap
